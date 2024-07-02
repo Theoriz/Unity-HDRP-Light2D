@@ -1,2 +1,3 @@
 # Unity-HDRP-Light2D
-2D Raytracing for HDRP
+
+Implementation of [Light2D](https://github.com/Robert-K/light2D) by Robert-K for HDRP.
